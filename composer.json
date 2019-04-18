@@ -1,4 +1,9 @@
 {
+    "require" : {
+    "php": "~7.1.0",
+    "ext-mbstring": "*",
+    "ext-gd": "*"
+  },
     "config" : {
         "vendor-dir": "lib/composer",
         "optimize-autoloader": true
